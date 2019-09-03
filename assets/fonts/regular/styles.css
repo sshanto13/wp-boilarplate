@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'GrotesqueMTStd';
+  src: url('GrotesqueMTStd.eot?#iefix') format('embedded-opentype'),  url('GrotesqueMTStd.otf')  format('opentype'),
+	     url('GrotesqueMTStd.woff') format('woff'), url('GrotesqueMTStd.ttf')  format('truetype'), url('GrotesqueMTStd.svg#GrotesqueMTStd') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
